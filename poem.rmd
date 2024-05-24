@@ -14,13 +14,96 @@ Our project will be done using several commits to the master branch.
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
+A boat beneath a sunny sky,
+
+Lingering onward dreamily
+
+In an evening of July —
+
+
+Children three that nestle near,
+
+Eager eye and willing ear,
+
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
 ## Second Verse
-<!--Put the first five lines of a poem by Robert Frost here!-->
+My sash is lowered when night comes on;
+
+ But let there never be curtain drawn
+ 
+ Between you and me.
+
+ Vague dream-head lifted out of the ground,
+ 
+ And thing next most diffuse to cloud,
+ <!--Put the first five lines of a poem by Robert Frost here!-->
 
 ## Third Verse
+"The sun was shining on the sea,
+
+Shining with all his might:
+      
+He did his very best to make
+
+The billows smooth and bright —
+      
+And this was odd, because it was
+
+The middle of the night.
+
+The moon was shining sulkily,
+
+Because she thought the sun
+      
+Had got no business to be there
+
+After the day was done —
+      
+"It's very rude of him," she said,
+
+"To come and spoil the fun."
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
 ## Last Verse
+Pumping in my living room.
+
+Just like moons and like suns,
+
+With the certainty of tides,
+
+Just like hopes springing high,
+
+Still I'll rise.
+
+Did you want to see me broken?
+
+Bowed head and lowered eyes?
+
+Shoulders falling down like teardrops.
+
+Weakened by my soulful cries.
+
+Does my haughtiness offend you?
+
+Don't you take it awful hard
+
+'Cause I laugh like I've got gold mines
+
+Diggin' in my own back yard.
+
+You may shoot me with your words,
+
+You may cut me with your eyes,
+
+You may kill me with your hatefulness,
+
+But still, like air, I'll rise.
+
+Does my sexiness upset you?
+
+Does it come as a surprise
+
+That I dance like I've got diamonds
+
 <!--Put a short poem of your choice 8-20 lines,here!-->
